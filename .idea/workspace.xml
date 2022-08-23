@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cb2e668-5440-44e1-926b-9c091d1a727f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovimientoDinero.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MovimientoDinero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoviDinero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MovimientoDinero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MovimientoDinero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,17 +35,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/k_ike/OneDrive/Documents/Intelij/POO"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MovimientoDinero">
+  <component name="RunManager" selected="Application.MoviDinero">
     <configuration name="Unnamed" type="AntRunConfiguration" nameIsGenerated="true">
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovimientoDinero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MovimientoDinero" />
+    <configuration name="MoviDinero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoviDinero" />
       <module name="MovimientoDinero" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -57,11 +54,11 @@
     </configuration>
     <list>
       <item itemvalue="Ant Target.Unnamed" />
-      <item itemvalue="Application.MovimientoDinero" />
+      <item itemvalue="Application.MoviDinero" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MovimientoDinero" />
+        <item itemvalue="Application.MoviDinero" />
       </list>
     </recent_temporary>
   </component>
